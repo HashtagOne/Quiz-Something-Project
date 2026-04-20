@@ -1,6 +1,6 @@
 # Quiz App
 
-A terminal-based quiz program built in Python.
+Currently, a terminal-based Python application.
 
 ## Features
 - Two-layer topic and subtopic navigation
