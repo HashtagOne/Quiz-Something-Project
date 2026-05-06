@@ -36,7 +36,3 @@ Requires Python 3. No external dependencies.
 - Python
 - JSON
 - os / time / random standard libraries
-
-## Author
-
-Epicc — https://github.com/HashtagOne
