@@ -1,5 +1,3 @@
-Looking at your `Quiz.py` file:
-
 # Python Quiz App
 
 Currently, a command-line quiz application built in Python. Features a two-layer topic navigation system, per-user JSON leaderboard, input validation, and randomized questions.
